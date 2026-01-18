@@ -1,16 +1,33 @@
-# bin2dec
+# Binary to Decimal Converter (Flutter)
 
-A new Flutter project.
+## Overview
+This is a simple Flutter application that converts binary numbers into their decimal representation. The app was developed as a self-practice project to reinforce core programming concepts such as number systems, input validation, and Flutter UI fundamentals.
 
-## Getting Started
+## Screenshots
+**Home Screen:**<img width="1280" height="2856" alt="Screenshot_1768769681" src="https://github.com/user-attachments/assets/090d768e-9846-4a3f-8929-ab5cba4c0419" />
+**Conversion Result:**<img width="1280" height="2856" alt="Screenshot_1768769678" src="https://github.com/user-attachments/assets/e12cfad9-b850-4ceb-a656-35754ca915f4" />
+**Another Conversion Result:**<img width="1280" height="2856" alt="Screenshot_1768769688" src="https://github.com/user-attachments/assets/0ad2f258-f2fe-427b-9995-dfdeb1b2049d" />
 
-This project is a starting point for a Flutter application.
+## Features
+- Convert binary input to decimal output
+- Simple and intuitive user interface
+- button-triggered conversion
+- Lightweight and beginner-friendly design
 
-A few resources to get you started if this is your first Flutter project:
+## Purpose
+The primary goal of this project was self-assessment and skill development using Flutter. It focuses on implementing basic logic, handling user input, and building a functional UI using Flutter widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the App
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Yhwach14/bin2dec
+2. Navigate to the project directory:
+3. ```bash
+   cd bin2dec
+4. Run the app:
+   ```bash
+   flutter run
