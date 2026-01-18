@@ -6,9 +6,9 @@ import 'package:google_fonts/google_fonts.dart';
 final theme = ThemeData(
   useMaterial3: true,
   colorScheme: ColorScheme.fromSeed(
-    brightness: Brightness.light, // Changed to light
-    seedColor: const Color(0xFF0056D2), // A vibrant Blue
-    // For Red, use: const Color(0xFFD32F2F)
+    brightness: Brightness.light, 
+    seedColor: const Color(0xFF0056D2), 
+   
   ),
   textTheme: GoogleFonts.latoTextTheme(),
   elevatedButtonTheme: ElevatedButtonThemeData(
